@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chamalka Jayashan</h1>
+<h1 align="center">Hello there 👋👋</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamalka20" alt="chamalka20" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
