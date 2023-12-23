@@ -1,6 +1,11 @@
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello there
 
+- 🌱 I studied at [Sliate](http://www.sliate.ac.lk/), HNDIT - Higher National Diploma in Information Technology 
+- 📗 I’m currently learning Flutter framwork
+- 💬 Ask me about anything
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/chamalka-gunawardana-62b668245/) | [Gmail](www.chamalkagunwardana@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
