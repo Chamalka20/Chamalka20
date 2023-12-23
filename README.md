@@ -18,7 +18,8 @@
 <br>
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat&logo=Visual-studio-code)](https://code.visualstudio.com/)
-[![VS Code](https://img.shields.io/badge/IDE-Eclipse-%23007ACC?style=flat&logo=Eclipse)](https://www.eclipse.org/ide/)
+[![Eclipse](https://img.shields.io/badge/IDE-Eclipse-%23007ACC?style=flat&logo=Eclipse)](https://www.eclipse.org/ide/)
+[![Postman](https://img.shields.io/badge/Workspaces-Postman-%23007ACC?style=flat&logo=Postman)](https://www.postman.com/)
 ##
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chamalka20&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Chamalka github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamalka20&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
