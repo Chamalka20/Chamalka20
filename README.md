@@ -1,7 +1,6 @@
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello there
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamalka20" alt="chamalka20" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
