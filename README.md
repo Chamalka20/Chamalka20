@@ -19,6 +19,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=black&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![NodeJS](https://img.shields.io/badge/-Node.JS-%2343853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![Flutter](https://img.shields.io/badge/-Flutter-%234479A1?style=flat&logo=Flutter&logoColor=white)](https://flutter.dev/)
 <br>
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat&logo=Visual-studio-code)](https://code.visualstudio.com/)
